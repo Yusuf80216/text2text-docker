@@ -1,0 +1,5 @@
+fastapi
+requests
+sentencepiece
+torch
+transformers
